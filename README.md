@@ -30,8 +30,9 @@ ________
  *  Site Images - images of the site functionality in operation: 
 --  Streets default.jpg - Image of the default map when opened 
 --  Dark Select.jpg - image of the user selected dark map background 
---  Satellite Select - image of the user selected satellite map background.
---  Earthqaukes Off - image of user selected removal of the eartquake markers from the map
---  Tectonic Off - image of the user selected removal of the tectonic plates from the map
+--  Satellite Select.jpg - image of the user selected satellite map background.
+--  Earthqaukes Off.jpg - image of user selected removal of the eartquake markers from the map
+--  Tectonic Off.jpg - image of the user selected removal of the tectonic plates from the map
+--  Popup Info.jpg - image of eartquake information popup following click of user selected earthquake marker
  * README.md
  
